@@ -1,5 +1,5 @@
 {
-  "url_canais": "https://iptv-org.github.io/iptv/languages/por.m3u",
-  "url_filmes": "https://raw.githubusercontent.com/LuanGamer98/IPTV-FILMES-SERIES/main/lista_teste.m3u",
+  "url_canais": "https://gist.githubusercontent.com/sempreconceito/267043c96ac39ed5b1b9f3680b91974a/raw/",
+  "url_filmes": "https://raw.githubusercontent.com/LuanGamer98/IPTV-FILMES-SERIES/main/lista_teste.m3u"
   "mensagem_alerta": "Bem-vindos ao UniTV Família! Aproveitem os filmes."
 }
