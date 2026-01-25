@@ -1,5 +1,4 @@
 {
   "url_canais": "https://gist.githubusercontent.com/sempreconceito/267043c96ac39ed5b1b9f3680b91974a/raw/",
-  "url_filmes": "https://raw.githubusercontent.com/paulooosrj/khan-stream/master/public/sources/lista-iptv.txt",
-  "mensagem_alerta": "Bem-vindo ao UniTV!"
+  "url_filmes": "https://raw.githubusercontent.com/paulooosrj/khan-stream/master/public/sources/lista-iptv.txt"
 }
