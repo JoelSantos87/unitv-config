@@ -1,9 +1,5 @@
 {
-  "url_canais": "https://github.com/mariosanthos/IPTV/blob/main/lista%20m3u",
-  "url_filmes": "https://github.com/paulooosrj/khan-stream/blob/master/public/sources/lista-iptv.txt",
-  "usuarios": [
-    {"user": "joel", "pass": "3007"},
-    {"user": "tonia", "pass": "2026"}
-  ],
-  "mensagem_alerta": "Bem-vindos ao UniTV Família! Aproveitem os filmes."
+  "url_canais": "https://gist.githubusercontent.com/sempreconceito/267043c96ac39ed5b1b9f3680b91974a/raw/",
+  "url_filmes": "https://raw.githubusercontent.com/paulooosrj/khan-stream/master/public/sources/lista-iptv.txt",
+  "mensagem_alerta": "Bem-vindo ao UniTV!"
 }
